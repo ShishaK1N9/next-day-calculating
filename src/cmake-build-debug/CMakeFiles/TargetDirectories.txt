@@ -1,0 +1,3 @@
+C:/Projects/Git/next-day-calculating/src/cmake-build-debug/CMakeFiles/next_day_calculating.dir
+C:/Projects/Git/next-day-calculating/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Git/next-day-calculating/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
